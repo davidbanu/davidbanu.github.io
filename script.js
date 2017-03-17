@@ -382,10 +382,10 @@ $(window).load(function() {
         window.open(canvas.toDataURL('image/png'));
     });
     $('#about').click(function() {
-        $('#dialog').html('<div class="contents">Copyright 2011 <a href="http://madebyevan.com">Evan Wallace</a>' +
+        $('#dialog').html('<div class="contents">Copyright 2011 <a href="http://davidbanu.me">David Banu</a>' +
         '<br><br>This application is powered by <a href="http://evanw.github.com/glfx.js/">glfx.js</a>, an ' +
         'open-source image effect library that uses WebGL.&nbsp; The source code for this application is ' +
-        'also <a href="http://github.com/evanw/webgl-filter/">available on GitHub</a>.</div><div class="button ' +
+        'also <a href="http://github.com/davidbanu/davidbanu.github.io/">available on GitHub</a>.</div><div class="button ' +
         'closedialog">Close</div>');
         showDialog();
     });
