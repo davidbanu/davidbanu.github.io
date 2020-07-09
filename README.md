@@ -3,7 +3,7 @@
 Blog and website 
 
 - [ ] Home page
-- [ ] Articles page
+- [ ] Blog
 - [ ] Notes
 - [ ] Newsletter
 - [ ] About
