@@ -6,4 +6,3 @@ Blog and website
 - [ ] Blog
 - [ ] Notes
 - [ ] Newsletter
-- [ ] About
