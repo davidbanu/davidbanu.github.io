@@ -3,7 +3,18 @@
     padding: 0;
   }
 
-.home-header {
+.container {
+    margin-top: 30px;
+}
+
+@media (max-width: 600px) {
+  .home-header {
+    font-size: 10vw;
     line-height: 4.5rem;
-    font-weight: 700;
+    font-weight: 500;
+  }
+  .container {
+    margin-top: 10px;
+}
+
 }
