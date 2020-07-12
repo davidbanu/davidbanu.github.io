@@ -2,7 +2,7 @@
 
 Blog and website 
 
-- [ ] Home page
+- [X] Home page
 - [ ] Blog
 - [ ] Notes
 - [ ] Newsletter
