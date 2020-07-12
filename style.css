@@ -7,11 +7,19 @@
     margin-top: 30px;
 }
 
+.home-header { 
+  font-weight: 700;
+  font-family: 'Source Sans Pro',sans-serif;
+}
+
+.bio { 
+  margin-top: 100px;
+}
+
 @media (max-width: 600px) {
   .home-header {
     font-size: 10vw;
     line-height: 4.5rem;
-    font-weight: 500;
   }
   .container {
     margin-top: 10px;
