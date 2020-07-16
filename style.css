@@ -12,6 +12,13 @@
 .container {
     margin-top: 30px;
 }
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
+
 body {
   color: #212121;
   background-color: #fafafa;
