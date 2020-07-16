@@ -13,14 +13,6 @@
     margin-top: 30px;
 }
 
-#mc_embed_signup {
-  background:#fff;
-  clear:left; 
-  font:14px Helvetica,Arial,sans-serif; 
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-
 body {
   color: #212121;
   background-color: #fafafa;
@@ -28,6 +20,15 @@ body {
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em;
+}
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
 }
 
 .home-header { 
