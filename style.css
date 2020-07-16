@@ -30,6 +30,11 @@ body {
   background-color: #fafafa;
 }
 
+#mc_embed_signup input {
+  background-color: #fafafa;
+}
+
+
 .home-header { 
   font-weight: 500;
   font-family: ToyBox;
