@@ -5,4 +5,4 @@ Blog and website
 - [X] Home page
 - [ ] Blog
 - [ ] Notes
-- [ ] Newsletter
+- [X] Newsletter
