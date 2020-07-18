@@ -14,24 +14,31 @@
 }
 
 body {
-  color: #212121;
-  background-color: #fafafa;
+  color: #fafafa;
+  background-color: #8E65C0;
   font-family: Merriweather,Georgia,serif;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em;
 }
 
+a { 
+  color: #00CAB6;
+}
+
+
 #mc_embed_signup {
   clear:left; 
   font:14px Helvetica,Arial,sans-serif; 
   margin-top: 30px;
   margin-bottom: 30px;
-  background-color: #fafafa;
+  background-color: #8E65C0;
+  
 }
 
 #mc_embed_signup input {
-  background-color: #fafafa;
+  background-color: #8E65C0;
+  border-color: #fafafa;
 }
 
 
@@ -67,7 +74,7 @@ ul li a:hover, ul li a:focus {
 
 ul li a {
   font-size: 2.5rem;
-  color: #212121;
+  color: #00CAB6;
 }
 
 .social-icon-alignment-center {
