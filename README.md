@@ -3,6 +3,6 @@
 Blog and website 
 
 - [X] Home page
-- [ ] Blog
+- [X] Blog
 - [ ] Notes
 - [X] Newsletter
