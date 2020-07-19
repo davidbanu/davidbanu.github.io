@@ -14,7 +14,7 @@
 }
 
 body {
-  color: #fafafa;
+  color: #fff;
   background-color: #8E65C0;
   font-family: Merriweather,Georgia,serif;
   font-size: 1.6em;
@@ -38,7 +38,7 @@ a {
 
 #mc_embed_signup input {
   background-color: #8E65C0;
-  border-color: #fafafa;
+  border-color: #fff;
 }
 
 
