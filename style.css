@@ -78,6 +78,10 @@ ul li a {
   color: #00CAB6;
 }
 
+.title-newsletter {
+  font-weight: 600;
+}
+
 .social-icon-alignment-center {
   text-align: center;
 }
