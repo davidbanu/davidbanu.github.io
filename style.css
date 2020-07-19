@@ -14,8 +14,8 @@
 }
 
 body {
-  color: #fff;
-  background-color: #8E65C0;
+  color: #000;
+  background-color: #fafafa;
   font-family: Merriweather,Georgia,serif;
   font-size: 1.6em;
   font-weight: 300;
@@ -32,13 +32,13 @@ a {
   font:14px Helvetica,Arial,sans-serif; 
   margin-top: 30px;
   margin-bottom: 30px;
-  background-color: #8E65C0;
+  background-color: #fafafa;
   
 }
 
 #mc_embed_signup input {
-  background-color: #8E65C0;
-  border-color: #fff;
+  background-color: #fafafa;
+  border-color: #fafafa;
 }
 
 
@@ -54,6 +54,7 @@ a {
 
 .sub-title {
   font-family: ToyBox;
+  color: #999;
 }
 
 ul {
