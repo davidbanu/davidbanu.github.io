@@ -40,6 +40,10 @@ body {
   box-shadow: 0 1px 3px rgba(0,0,0,.171);
 }
 
+#mc_embed_signup .button {
+  background-color: #2ea44f;
+}
+
 
 .home-header { 
   font-weight: 500;
