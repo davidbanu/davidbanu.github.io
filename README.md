@@ -1,8 +1,11 @@
-# davidbanu.github.io
+# Themetribe
 
+ 
+## Description
 
-
-- [X] Home page
-- [X] Blog
-- [ ] Notes
-- [X] Newsletter
+Will have the following structure: 
+- Themes
+- Kits
+- Components
+- About 
+- Blog
