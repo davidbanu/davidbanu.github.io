@@ -1,11 +1,11 @@
-# Themetribe
+# Personal Website
 
  
 ## Description
 
 Will have the following structure: 
-- Themes
-- Kits
-- Components
-- About 
+- Home
+- About
 - Blog
+- Newsletter
+- Contact
