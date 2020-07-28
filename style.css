@@ -332,3 +332,7 @@ button:hover {
 #rtb figcaption {
   display: none;
 }
+
+.container .bio a {
+  color: orange;
+}
