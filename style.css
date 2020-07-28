@@ -321,6 +321,11 @@ button:hover {
   color: #fff;
 }
 
+#rtb a h2 {
+  color: #FFF;
+  font-family: ToyBox;
+}
+
 #rtb .excerpt {
   color: #999;
 }
@@ -336,3 +341,4 @@ button:hover {
 .container .bio a {
   color: orange;
 }
+
