@@ -450,3 +450,7 @@ h1 {
   font-size: 18px;
   border-radius: 20px;
 }
+
+#mc-embedded-subscribe {
+  height: auto;
+}
