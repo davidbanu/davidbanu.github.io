@@ -1,11 +1,10 @@
-# Personal Website
-
+# `davidbanu.com`
  
-## Description
+## `Description`
 
 Will have the following structure: 
 - Home
 - About
 - Blog
-- Newsletter
-- Contact
+- Brain 
+- Timeline
