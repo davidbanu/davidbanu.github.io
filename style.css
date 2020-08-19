@@ -8,6 +8,21 @@
     src: url(fonts/ToyBox.ttf);
   }
 
+  @font-face {
+    font-family: PulpLight;
+    src: url(fonts/PulpDisplay-Light.woff);
+  }
+
+  @font-face {
+    font-family: Pulp;
+    src: url(fonts/PulpDisplay-Medium.woff);
+  }
+
+  @font-face {
+    font-family: PulpBold;
+    src: url(fonts/PulpDisplay-Bold.woff);
+  }
+
   body {
       background-color: #172B4D;
   }
