@@ -6,5 +6,5 @@ Will have the following structure:
 - Home
 - About
 - Blog
-- Brain 
+- Notes
 - Timeline
