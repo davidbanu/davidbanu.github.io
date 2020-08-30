@@ -39,7 +39,7 @@
 }
 
 .logo a {
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
   text-transform: uppercase;
   font-weight: 500;
   font-family: PulpBold;
@@ -50,7 +50,7 @@
 }
 
   .title {
-      color: rgb(29, 161, 242);
+      color: darkmagenta;
       font-weight: 500;
       margin-top: 200px;
       font-size: 38px;
@@ -78,7 +78,7 @@
   }
 
   .footer {
-      color: rgb(29, 161, 242);
+      color: darkmagenta;
       font-family: PulpBold;
       font-size: 16px;
   }
@@ -103,7 +103,7 @@ ul li {
 }
 
   ul li a {
-    color: rgb(29, 161, 242);
+    color: darkmagenta;
     font-size: 1.7rem;
   }
 
@@ -128,7 +128,7 @@ nav ul li a,
 nav ul li a:hover {
   display: inline-block;
   outline: none;
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
   text-transform: uppercase;
   text-decoration: none;
   font-size: 14px;
@@ -228,7 +228,7 @@ nav ul li a:hover {
       display: block;
       width: 20px;
       height: 2px;
-      background: rgb(29, 161, 242);
+      background: darkmagenta;
       border-radius: 2px;
       margin-left: 14px;
   }
@@ -252,7 +252,7 @@ nav ul li a:hover {
 }
 
 #nav:checked + .nav-btn i {
-  background: rgb(29, 161, 242);
+  background: darkmagenta;
   transition: transform 0.2s ease;
 }
 
@@ -295,11 +295,11 @@ button {
 
 button:hover {
   background-color: white;
-  color: #32A3DC;
+  color: darkmagenta;
 }
 
 .terms-links ul li a:hover {
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
 }
 
 .social-icons a:hover {
@@ -312,7 +312,7 @@ button:hover {
 }
 
 .section-content a {
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
 }
 
 .bio {
@@ -339,7 +339,7 @@ button:hover {
 }
 
 #rtb a h2 {
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
   font-family: ToyBox;
 }
 
@@ -357,7 +357,7 @@ button:hover {
 }
 
 .container .bio a {
-  color: rgb(29, 161, 242);
+  color: darkmagenta;
 }
 
 #mce-EMAIL {
