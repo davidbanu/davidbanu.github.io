@@ -62,7 +62,7 @@
     font-weight: 500;
     margin-top: 120px;
     font-size: 38px;
-    font-family: ToyBox;
+    font-family: PulpBold;
 }
 
   .sub-title {
@@ -134,7 +134,7 @@ nav ul li a:hover {
   font-size: 14px;
   letter-spacing: 1.2px;
   font-weight: 300;
-  font-family: ToyBox;
+  font-family: PulpBold;
 }
 
 
@@ -324,7 +324,7 @@ button:hover {
 
 .title-newsletter {
   margin-top: 220px;
-  font-family: ToyBox;
+  font-family: PulpBold;
   color: #fff;
 }
 
@@ -340,7 +340,7 @@ button:hover {
 
 #rtb a h2 {
   color: darkmagenta;
-  font-family: ToyBox;
+  font-family: PulpBold;
 }
 
 #rtb .excerpt {
