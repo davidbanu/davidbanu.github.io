@@ -42,7 +42,7 @@
   color: rgb(29, 161, 242);
   text-transform: uppercase;
   font-weight: 500;
-  font-family: ToyBox;
+  font-family: PulpBold;
   font-size: 20px;
   letter-spacing: 0px;
   text-decoration: none;
@@ -54,11 +54,11 @@
       font-weight: 500;
       margin-top: 200px;
       font-size: 38px;
-      font-family: ToyBox;
+      font-family: PulpBold;
   }
 
   .about-title {
-    color: rgb(29, 161, 242);
+    color: darkmagenta;
     font-weight: 500;
     margin-top: 120px;
     font-size: 38px;
@@ -66,10 +66,15 @@
 }
 
   .sub-title {
-      color: rgb(29, 161, 242);
+      color: darkmagenta;
       font-weight: 500;
-      font-family: ToyBox;
+      font-family: PulpBold;
       font-size: 25px;
+  }
+
+  .projects-presentation {
+    font-family: PulpBold;
+    margin-top: 80px;
   }
 
   .footer {
@@ -383,3 +388,4 @@ button:hover {
 #mc-embedded-subscribe {
   height: auto;
 }
+
