@@ -204,7 +204,7 @@ nav ul li a:hover {
   .nav-wrapper ul li a {
       padding: 10px 24px;
       opacity: 0;
-      color: rgb(29, 161, 242);
+      color: darkmagenta;
       font-size: 18px;
       font-weight: 600;
       letter-spacing: 1.2px;
