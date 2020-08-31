@@ -384,3 +384,22 @@ button:hover {
   height: auto;
 }
 
+.startups-presentation {
+  margin-top: 60px;
+}
+
+.startups-presentation h3 {
+  font-family: PulpBold;
+}
+
+.startups-link {
+  font-family: Pulp;
+  font-size: 18px;
+  margin-bottom: 60px;
+}
+
+.startups-description {
+  margin-top: 20px;
+  font-family: PulpLight;
+  font-size: 18px;
+}
