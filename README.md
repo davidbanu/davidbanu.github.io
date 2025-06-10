@@ -8,3 +8,9 @@ Will have the following structure:
 - Blog
 - Notes
 - Timeline
+
+
+Functionality:
+- Ability to schedule call with me
+- Newsletter
+- Blog functionality with dynamic content
